@@ -1,6 +1,6 @@
 # whereIsSven
 
-Simple map that keeps track of my position during my travels.
+Simple map that keeps track of my position during my travels. Used on my blog: [http://svenaufreisen.tumblr.com/woistsven](http://svenaufreisen.tumblr.com/woistsven)
 
 ## Things to do:
 
